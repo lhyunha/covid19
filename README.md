@@ -1,0 +1,13 @@
+# covid19
+![문제1](https://user-images.githubusercontent.com/73657176/102321551-2fe97880-3fc1-11eb-9d61-57ffabe9a1f8.JPG)
+![문제2](https://user-images.githubusercontent.com/73657176/102321564-34159600-3fc1-11eb-8d4a-15706a9ea3d1.JPG)
+![문제3](https://user-images.githubusercontent.com/73657176/102321565-34ae2c80-3fc1-11eb-8f19-e98f8437357a.JPG)
+![문제4](https://user-images.githubusercontent.com/73657176/102321566-34ae2c80-3fc1-11eb-991c-91008e4a4d64.JPG)
+![문제5](https://user-images.githubusercontent.com/73657176/102321575-3841b380-3fc1-11eb-896c-ee11eccd20ea.JPG)
+![문제6](https://user-images.githubusercontent.com/73657176/102321582-3c6dd100-3fc1-11eb-8c9c-7c674370144c.JPG)
+![문제7](https://user-images.githubusercontent.com/73657176/102321584-3d9efe00-3fc1-11eb-88a1-5535b172c93a.JPG)
+![문제8](https://user-images.githubusercontent.com/73657176/102321586-3d9efe00-3fc1-11eb-9c76-66334228dc9f.JPG)
+![문제9](https://user-images.githubusercontent.com/73657176/102321589-3e379480-3fc1-11eb-88db-8ad67ffa4546.JPG)
+![문제10](https://user-images.githubusercontent.com/73657176/102321593-3e379480-3fc1-11eb-8811-f32307a677c5.JPG)
+![문제14](https://user-images.githubusercontent.com/73657176/102321603-41328500-3fc1-11eb-86d1-cc2f747d7c1e.JPG)
+![문제15](https://user-images.githubusercontent.com/73657176/102351752-4f48cb80-3fea-11eb-9b24-5a494101bb48.JPG)
